@@ -8,11 +8,11 @@ Adding and multiplying two polynomials
 The main focus was to ensure modularity and reusability — separating declarations (Polynomial.h), definitions (Polynomial.cpp), and testing (main.cpp).
 
 🔗 GitHub Repository
-👉 View on GitHub
-(Replace with your actual repo link after uploading!)
+https://github.com/ZahraDS/Polynomial-
 
 ⚠️ Challenges Faced
 Understanding how to properly separate header and source files in Visual Studio.
 Handling term insertion in sorted order to maintain polynomial structure.
 Managing dynamic memory and ensuring correct linking of nodes during addition and multiplication.
+
 Resolving build and linking errors due to missing declarations or header misplacements.
